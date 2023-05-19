@@ -1,0 +1,33 @@
+{
+  "term": "Spring",
+  "year": "2023",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "dcb864f9-0b11-232a-73d3-cfe246dd895a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "",
+    "website": "terrascope"
+  },
+  "course_title": "Terrascope",
+  "course_description": "Terrascope is a learning community for first-year students to solve complex, real-world problems starting in their first semester at MIT.",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.12-002",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "terrascope"
+  },
+  "learning_resource_types": [],
+  "site_uid": "96bbe84a-685b-4e37-b2c4-aa2a9e2c9a06",
+  "site_short_id": "res.12-002-spring-2023"
+}
