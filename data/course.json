@@ -4,7 +4,13 @@
   "level": [
     "Undergraduate"
   ],
-  "topics": [],
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Environmental Science"
+    ]
+  ],
   "legacy_uid": "",
   "instructors": {
     "content": [
