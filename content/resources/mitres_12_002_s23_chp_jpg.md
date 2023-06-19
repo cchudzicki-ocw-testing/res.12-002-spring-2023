@@ -6,8 +6,8 @@ file: /courses/res-12-002-terrascope-spring-2023/mitres_12_002_s23_chp.jpg
 file_type: image/jpeg
 image_metadata:
   caption: "Field trip to New Mexico Hoop House. Over spring break, first-year students\
-    \ can go on a field trip to a site related to the year\u2019s Mission. (Image\
-    \ courtesy of Terrascope.)"
+    \ can go on a field trip to a site related to the year\u2019s core Terrascope\
+    \ problem. (Image courtesy of Terrascope.)"
   credit: ''
   image-alt: Five people working in a green house.
 learning_resource_types: []
