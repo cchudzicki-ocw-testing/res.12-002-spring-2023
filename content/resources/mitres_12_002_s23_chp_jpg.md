@@ -5,12 +5,9 @@ draft: false
 file: /courses/res-12-002-terrascope-spring-2023/mitres_12_002_s23_chp.jpg
 file_type: image/jpeg
 image_metadata:
-  caption: "Puerto Rico\u2019s electrical power grid is highly vulnerable to natural\
-    \ disasters such as hurricanes and earthquakes. Terrascope's students will develop\
-    \ ways for individual towns, neighborhoods, factories and schools to have secure\
-    \ access to resilient, sustainable electrical power. (Image courtesy of Terrascope.)"
+  caption: Field trip to New Mexico Hoop House. (Image courtesy of Terrascope.)
   credit: ''
-  image-alt: An electric pole in front of a building.
+  image-alt: Five people working in a green house.
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
